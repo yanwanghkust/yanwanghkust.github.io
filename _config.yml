@@ -44,9 +44,9 @@ navbar-links:
 author:
   name: Yan Wang
   email: "yanwang@ust.hk"
-  google-scholar: "https://scholar.google.com.hk/citations?user=UHUYJ7wAAAAJ&hl=en"
+  google: "https://scholar.google.com.hk/citations?user=UHUYJ7wAAAAJ&hl=en"
 #  facebook: pwangum  # eg. daattali
-#  github: wangpengphd    # eg. daattali
+  github: yanwanghkust    # eg. daattali
 #  twitter: pwangum   # eg. daattali
 #  reddit: yourname    # eg. daattali
 #  google-plus: 104895723777507932284   # eg. +DeanAttali or 109424658772469020925
@@ -67,7 +67,7 @@ footer-links-active:
   email: true
   twitter: false
   google-plus: false
-  github: false
+  github: true
   reddit: false
   linkedin: false
   xing: false
@@ -78,18 +78,18 @@ footer-links-active:
   spotify: false
   researchgate: true
   telephone: true
-  google-scholar: true
+  google: true
 
 # Select which share links to show in posts
 share-links-active:
   twitter: false
-  facebook: true
-  google-plus: true
-  linkedin: true
+  facebook: false
+  google-plus: false
+  linkedin: false
   email: true
-  youtube: true
+  youtube: false
   researchgate: true
-  rss: true
+  rss: false
   
 
 # How to display the link to the website in the footer
