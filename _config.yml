@@ -44,7 +44,6 @@ navbar-links:
 author:
   name: Yan Wang
   email: "yanwang@ust.hk"
-  uri: "https://scholar.google.com.hk/citations?user=UHUYJ7wAAAAJ&hl=en"
 #  facebook: pwangum  # eg. daattali
   github: yanwanghkust    # eg. daattali
 #  twitter: pwangum   # eg. daattali
@@ -79,7 +78,7 @@ footer-links-active:
   spotify: false
   researchgate: true
   telephone: true
-  uri: true
+  orcid: true
 
 # Select which share links to show in posts
 share-links-active:
@@ -105,7 +104,7 @@ disqus: "yanwanghkust"
 # google_analytics: "UA-93558209-1"
 
 # Google Tag Manager ID
-gtm: "GTM-M9ZL65M"
+# gtm: "GTM-M9ZL65M"
 
 # Facebook App ID
 # fb_app_id: ""
