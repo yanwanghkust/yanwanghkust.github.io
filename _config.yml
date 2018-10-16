@@ -17,16 +17,17 @@ baseurl: ""
 title: Ocean Dynamics @ HKUST
 
 # Short description of your site
-description: UCLA
+description: HKUST
 
 # --- Navigation bar options --- #
 
 # List of links in the navigation bar
 navbar-links:
-#  About Me: "aboutme"
-  CV: "cv"
+  About Me: "aboutme"
   Research: "researches"
   Publication: "publications"
+  Teaching: "teaching"
+  Opportunities: "opportunities"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
@@ -41,38 +42,38 @@ navbar-links:
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Peng Wang
-  email: "pwang@atmos.ucla.edu"
-  facebook: pwangum  # eg. daattali
-  github: wangpengphd    # eg. daattali
-  twitter: pwangum   # eg. daattali
-  reddit: yourname    # eg. daattali
-  google-plus: 104895723777507932284   # eg. +DeanAttali or 109424658772469020925
-  linkedin: peng-wang-76684a62  # eg. daattali
-  xing: yourname      # eg. daattali
-  stackoverflow: yourlink  # eg. "3943160/daattali"
-  snapchat: yourname  # eg. daattali
-  instagram: yourname # eg. daattali
-  youtube: channel/UCaqtggBAYiAQXukjtj0zzYA # eg. user/daattali or channel/daattali
-  spotify: yourname   # eg. daattali
-  researchgate: Peng_Wang99
-  telephone: +1.786.266.3320   # eg. +14159998888
+  name: Yan Wang
+  email: "yanwang@ust.hk"
+#  facebook: pwangum  # eg. daattali
+#  github: wangpengphd    # eg. daattali
+#  twitter: pwangum   # eg. daattali
+#  reddit: yourname    # eg. daattali
+#  google-plus: 104895723777507932284   # eg. +DeanAttali or 109424658772469020925
+#  linkedin: peng-wang-76684a62  # eg. daattali
+#  xing: yourname      # eg. daattali
+#  stackoverflow: yourlink  # eg. "3943160/daattali"
+#  snapchat: yourname  # eg. daattali
+#  instagram: yourname # eg. daattali
+#  youtube: channel/UCaqtggBAYiAQXukjtj0zzYA # eg. user/daattali or channel/daattali
+#  spotify: yourname   # eg. daattali
+  researchgate: Yan_Wang595
+  telephone: +825.3469.2801   # eg. +14159998888
 
 # Select which links to show in the footer
 footer-links-active:
-  rss: true
-  facebook: true
+  rss: false
+  facebook: false
   email: true
   twitter: false
-  google-plus: true
-  github: true
+  google-plus: false
+  github: false
   reddit: false
-  linkedin: true
+  linkedin: false
   xing: false
   stackoverflow: false
   snapchat: false
   instagram: false
-  youtube: true
+  youtube: false
   spotify: false
   researchgate: true
   telephone: false
@@ -95,13 +96,13 @@ share-links-active:
 
 # --- Misc --- #
 # Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
-disqus: "wangpengphd"
+disqus: "yanwanghkust"
 
 # Fill in your Google Analytics ID to track your website using GA
-google_analytics: "UA-93558209-1"
+# google_analytics: "UA-93558209-1"
 
 # Google Tag Manager ID
-gtm: "GTM-M9ZL65M"
+# gtm: "GTM-M9ZL65M"
 
 # Facebook App ID
 # fb_app_id: ""
@@ -117,7 +118,7 @@ title-separator: "-"
 # --- Don't need to touch anything below here (but you can if you want) --- #
 
 # Output options (more information on Jekyll's site)
-timezone: "America/Los Angeles"
+timezone: "Hong Kong"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
