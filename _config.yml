@@ -102,7 +102,7 @@ disqus: "yanwanghkust"
 # google_analytics: "UA-93558209-1"
 
 # Google Tag Manager ID
-# gtm: "GTM-M9ZL65M"
+gtm: "GTM-M9ZL65M"
 
 # Facebook App ID
 # fb_app_id: ""
