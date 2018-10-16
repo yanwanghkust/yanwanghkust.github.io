@@ -76,7 +76,7 @@ footer-links-active:
   instagram: false
   youtube: false
   spotify: false
-  researchgate: true
+  researchgate: false
   telephone: true
   orcid: true
 
