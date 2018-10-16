@@ -44,7 +44,7 @@ navbar-links:
 author:
   name: Yan Wang
   email: "yanwang@ust.hk"
-  googlescholar: "https://scholar.google.com.hk/citations?user=UHUYJ7wAAAAJ&hl=en"
+  google-scholar: "https://scholar.google.com.hk/citations?user=UHUYJ7wAAAAJ&hl=en"
 #  facebook: pwangum  # eg. daattali
 #  github: wangpengphd    # eg. daattali
 #  twitter: pwangum   # eg. daattali
@@ -77,8 +77,8 @@ footer-links-active:
   youtube: false
   spotify: false
   researchgate: true
-  telephone: false
-  googlescholar: true
+  telephone: true
+  google-scholar: true
 
 # Select which share links to show in posts
 share-links-active:
