@@ -23,9 +23,9 @@ description: HKUST
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "aboutme"
-  Research: "researches"
-  Publication: "publications"
+  People: "people"
+  Research: "research"
+  Publication: "publication"
   Teaching: "teaching"
   Opportunities: "opportunities"
 
