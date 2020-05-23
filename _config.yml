@@ -23,7 +23,7 @@ description: HKUST
 
 # List of links in the navigation bar
 navbar-links:
-  People: "people"
+  Group: "people"
   Research: "research"
   Publications: "publications"
   #Teaching: "teaching"#
