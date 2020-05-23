@@ -26,7 +26,7 @@ navbar-links:
   People: "people"
   Research: "research"
   Publications: "publications"
-  Teaching: "teaching"
+  #Teaching: "teaching"#
   Openings: "openings"
 
 # Image to show in the navigation bar - image must be a square (width = height)
